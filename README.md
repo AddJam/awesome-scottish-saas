@@ -1,7 +1,8 @@
-# Awesome Scottish SaaA
+# Awesome Scottish SaaS
 A collection of awesome SaaS companies based in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 * [Appointedd](https://www.appointedd.com) - The world’s most flexible online scheduling system
+* [AskPandi](https://askpandi.com) - Answer engine to search and generate knowledge.
 * [Bypass](https://bypasscharge.com) - The fastest way to charge and manage your fleet
 * [Experiential Learning Tools](https://experientiallearningtools.com) - Deliver remote training to groups that works
 * [Float App](https://floatapp.com) - Project tracking and cash flow forecasting
@@ -10,6 +11,7 @@ A collection of awesome SaaS companies based in Scotland 🏴󠁧󠁢󠁳󠁣�
 * [My1Login](https://www.my1login.com) - Workforec identity membership
 * [My Probate Partner](https://www.myprobatepartner.co.uk) - The better way to get probate in Scotland
 * [Odro](https://www.odro.co.uk) - Revenue driving recruitment tech
+* [Speech Graphics](https://www.speech-graphics.com/)- Audio-driven facial animation.
 * [Valla](https://valla.uk) - The legal platform for workers in the UK
 * [Very Connect](https://www.veryconnect.com) - Membership, CRM and community software
 * [Xeyex](https://www.xeyex.co.uk) - Software for opticians
