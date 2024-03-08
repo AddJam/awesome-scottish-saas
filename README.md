@@ -2,8 +2,10 @@
 A collection of awesome SaaS companies based in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 * [Appointedd](https://www.appointedd.com) - The world’s most flexible online scheduling system
+* [Architextures](https://architextures.org) - Browse materials and create textures for construction drawings and 3D models
 * [AskPandi](https://askpandi.com) - Answer engine to search and generate knowledge.
 * [Bypass](https://bypasscharge.com) - The fastest way to charge and manage your fleet
+* [ClassforKids](https://clubs.classforkids.co.uk/) - Grow your club & academy
 * [Experiential Learning Tools](https://experientiallearningtools.com) - Deliver remote training to groups that works
 * [Float App](https://floatapp.com) - Project tracking and cash flow forecasting
 * [FreeAgent](http://freeagent.com) - Bookkeeping for small businesses
