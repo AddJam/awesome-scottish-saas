@@ -1,6 +1,7 @@
 # Awesome Scottish SaaS
 A collection of awesome SaaS companies based in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
+* [Administrate](https://www.getadministrate.com) - Automate instructor-led training for enterprise
 * [Appointedd](https://www.appointedd.com) - The world’s most flexible online scheduling system
 * [Architextures](https://architextures.org) - Browse materials and create textures for construction drawings and 3D models
 * [AskPandi](https://askpandi.com) - Answer engine to search and generate knowledge.
@@ -19,6 +20,8 @@ A collection of awesome SaaS companies based in Scotland 🏴󠁧󠁢󠁳󠁣�
 * [Odro](https://www.odro.co.uk) - Revenue driving recruitment tech
 * [Pasabi](https://pasabi.com) - Trust and safety platform
 * [Speech Graphics](https://www.speech-graphics.com/)- Audio-driven facial animation.
+* [Trickle](https://trickle.works) - Employee voice platform
+* [Triscribe](http://triscribe.net) - Better medicines data for frontline clinicians in hospitals
 * [Valla](https://valla.uk) - The legal platform for workers in the UK
 * [Very Connect](https://www.veryconnect.com) - Membership, CRM and community software
 * [Willo](https://willo.video) - The cost-effective way to screen candidates at scale
