@@ -31,3 +31,7 @@ There's lots of awesome stuff happening in Scotland, get involved 🏴󠁧󠁢�
 * [Awesome Glasgow Tech](https://github.com/addjam/awesome-glasgow-tech)
 * [Awesome Dundee Tech](https://github.com/dougaitken/awesome-dundee-tech)
 
+## Contribute
+Have we missed something out? Or have we maybe made an error?
+
+PRs and issues are welcome.
