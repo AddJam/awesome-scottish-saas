@@ -9,6 +9,7 @@ A collection of awesome SaaS companies based in Scotland 🏴󠁧󠁢󠁳󠁣�
 * [Experiential Learning Tools](https://experientiallearningtools.com) - Deliver remote training to groups that works
 * [Float App](https://floatapp.com) - Project tracking and cash flow forecasting
 * [FreeAgent](http://freeagent.com) - Bookkeeping for small businesses
+* [Fyne Labs](https://fynelabs.com) - Low-code and platform agnostic development tools
 * [JitBit](https://www.jitbit.com) - Project tracking and cash flow forecasting
 * [My1Login](https://www.my1login.com) - Workforec identity membership
 * [My Probate Partner](https://www.myprobatepartner.co.uk) - The better way to get probate in Scotland
