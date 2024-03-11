@@ -13,7 +13,9 @@ A collection of awesome SaaS companies based in Scotland 🏴󠁧󠁢󠁳󠁣�
 * [JitBit](https://www.jitbit.com) - Project tracking and cash flow forecasting
 * [My1Login](https://www.my1login.com) - Workforec identity membership
 * [My Probate Partner](https://www.myprobatepartner.co.uk) - The better way to get probate in Scotland
+* [Neve Learning](https://www.nevelearning.co.uk) - Neurodiversity-first training platform
 * [Odro](https://www.odro.co.uk) - Revenue driving recruitment tech
+* [Pasabi](https://pasabi.com) - Trust and safety platform
 * [Speech Graphics](https://www.speech-graphics.com/)- Audio-driven facial animation.
 * [Valla](https://valla.uk) - The legal platform for workers in the UK
 * [Very Connect](https://www.veryconnect.com) - Membership, CRM and community software
