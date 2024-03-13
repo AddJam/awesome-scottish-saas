@@ -2,6 +2,7 @@
 A collection of awesome SaaS companies based in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 * [Administrate](https://www.getadministrate.com) - Automate instructor-led training for enterprise
+* [Amqus](https://amiqus.co) - Digitally verify and onboard clients or staff
 * [Appointedd](https://www.appointedd.com) - The world’s most flexible online scheduling system
 * [Architextures](https://architextures.org) - Browse materials and create textures for construction drawings and 3D models
 * [AskPandi](https://askpandi.com) - Answer engine to search and generate knowledge.
