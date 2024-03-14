@@ -25,6 +25,7 @@ A collection of awesome SaaS companies based in Scotland 🏴󠁧󠁢󠁳󠁣�
 * [Property Managed](https://property-managed.com) - Property rental software for landlords to manage their properties
 * [Screencast.video](https://screencast.video/) - Script driven web app demo video generator
 * [Speech Graphics](https://www.speech-graphics.com/)- Audio-driven facial animation.
+* [Soar Tech](https://soar.tech) - Digital Lending & Banking Platform.
 * [Trickle](https://trickle.works) - Employee voice platform
 * [Triscribe](http://triscribe.net) - Better medicines data for frontline clinicians in hospitals
 * [uniq.cards](https://uniq.cards) - AI generated greeting cards delivered as PDF
