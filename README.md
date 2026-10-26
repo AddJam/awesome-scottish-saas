@@ -40,6 +40,7 @@ There's lots of awesome stuff happening in Scotland, get involved 🏴󠁧󠁢�
 * [Awesome Edinburgh Tech](https://github.com/telaco/awesome-edinburgh-tech)
 * [Awesome Glasgow Tech](https://github.com/addjam/awesome-glasgow-tech)
 * [Awesome Dundee Tech](https://github.com/dougaitken/awesome-dundee-tech)
+* [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) - 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 
 ## Contribute
 Have we missed something out? Or have we maybe made an error?
